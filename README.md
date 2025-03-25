@@ -20,6 +20,9 @@ Develop a modern data warehouse using SQL server to consolidate sales data, embl
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ___
+## 🎨Data Architecture
+![alt text] ([docs/data_architecture.png)](https://github.com/BandhanHardiya/sql-data-warehouse-project/blob/c53eae14deac1743808343f7823dc4850eee756d/docs/data_architecture.png)
+
 
 ## BI: Analytics & Reporitng (Data Analytics)
 
